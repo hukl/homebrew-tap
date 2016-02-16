@@ -1,5 +1,5 @@
 class Hostmux < Formula
-  desc "A wrapper script for tmux to connect to a series of hosts via ssh."
+  desc "Wrapper script for tmux to connect to a list of hosts via ssh"
   homepage "https://github.com/hukl/hostmux/"
   url "https://github.com/hukl/hostmux/archive/1.0.0.tar.gz"
   version "1.0.0"
