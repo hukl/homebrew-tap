@@ -3,7 +3,7 @@ class Hostmux < Formula
   homepage "https://github.com/hukl/hostmux/"
   url "https://github.com/hukl/hostmux/archive/1.3.0.tar.gz"
   version "1.3.0"
-  sha256 "1112fb094e6f808afad0b8e6f4589c314aac6249b961d23449bdcd9d8311c614"
+  sha256 "044e6a2adebbd9d8bddaeae8cc95263cbd0fbda5591d34a38c673829bbe47295"
 
   depends_on "tmux"
 
