@@ -1,9 +1,9 @@
 class Hostmux < Formula
   desc "Wrapper script for tmux to connect to a list of hosts via ssh"
   homepage "https://github.com/hukl/hostmux/"
-  url "https://github.com/hukl/hostmux/archive/1.4.0.tar.gz"
-  version "1.4.0"
-  sha256 "763c98319502adecde413dc8396190f91e1901cd41d20dc3f05785689aed3112"
+  url "https://github.com/hukl/hostmux/archive/1.4.1.tar.gz"
+  version "1.4.1"
+  sha256 "6c7255ea5feb92faf53074062a63ca148389c459e7da22475c20c219f2fee6a2"
 
   depends_on "tmux"
 
